@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class Custumer {
 	private int cust_id;
 	private String custname;
-	private String custDepartment;
+	private String custDepartments;
 	@Autowired
 	private Services servic;
 	public Services servicesdetails()
