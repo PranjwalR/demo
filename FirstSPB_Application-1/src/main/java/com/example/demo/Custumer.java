@@ -39,10 +39,10 @@ public class Custumer {
 		this.custname = custname;
 	}
 	public String getCustDepartment() {
-		return custDepartment;
+		return custDepartments;
 	}
 	public void setCustDepartment(String custDepartment) {
-		this.custDepartment = custDepartment;
+		this.custDepartments = custDepartment;
 	}
 	
 	public void display()
